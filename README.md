@@ -6,7 +6,7 @@
 
 ## Introduction 🚀
 
-Welcome to **Neom**, the future of crypto portfolio management on the **Base chain**! Neom is engineered to provide a **trustless** and **permissionless** experience by leveraging the power of **Selene**, a cutting-edge light client. While Selene is still under development, Neom currently operates using simple RPC calls, ensuring you have uninterrupted access to your portfolio management needs.
+Welcome to **Neom**, the future of crypto portfolio management on the **Base chain**! Neom is engineered to provide a **trustless** and **permissionless** experience by leveraging the power of **Selene**, a cutting-edge light client. While [Selene](https://github.com/BlocSoc-iitr/selene) is still under development, Neom currently operates using simple RPC calls, ensuring you have uninterrupted access to your portfolio management needs.
 
 ## Why Choose Neom? 🤔
 
@@ -57,7 +57,7 @@ Welcome to **Neom**, the future of crypto portfolio management on the **Base cha
 
 ## Roadmap 🗺️
 
-- **Integrate Selene Light Client**: Transition from RPC calls to fully utilizing Selene once it's ready.
+- **Integrate Selene Light Client**: Transition from RPC calls to fully utilizing [Selene](https://devfolio.co/projects/selene-dd38) once it's ready.
 - **Mobile App Development**: Bringing Neom to iOS and Android devices.
 - **Advanced Analytics**: Introducing predictive tools and detailed market analysis.
 
