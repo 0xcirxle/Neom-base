@@ -33,28 +33,38 @@ Welcome to **Neom**, the future of crypto portfolio management on the **Base cha
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/neom.git
+    git clone https://github.com/yourusername/neom.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
     cd neom
    ```
 3. **Start the Backend**:
-  ```bash
-  cd Backend
-  cargo run
-  ```
+   ```bash
+    cd Backend
+    cargo run
+   ```
 4. **Return to the Root Directory**:
    ```bash
-   cd ..
+    cd ..
    ```
 5. **Start the Frontend**:
    ```bash
-   cd Frontend
-   npm start
+     cd Frontend
+     npm start
    ```
 *Note: Ensure you have **Rust** and **Node.js** installed on your system.*
 
+## Roadmap 🗺️
 
+- **Integrate Selene Light Client**: Transition from RPC calls to fully utilizing Selene once it's ready.
+- **Mobile App Development**: Bringing Neom to iOS and Android devices.
+- **Advanced Analytics**: Introducing predictive tools and detailed market analysis.
 
+## Contributing 🤝
 
+We welcome contributions from the community! This project is completely open source and all contributions are appreciated!
+
+##License 📄
+
+This project is licensed under the MIT License.
