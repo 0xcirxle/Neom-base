@@ -65,6 +65,10 @@ Welcome to **Neom**, the future of crypto portfolio management on the **Base cha
 
 We welcome contributions from the community! This project is completely open source and all contributions are appreciated!
 
-##License 📄
+## License 📄
 
 This project is licensed under the MIT License.
+
+---
+
+*Empower your crypto journey with Neom—the next step in decentralized portfolio management! 🚀*
